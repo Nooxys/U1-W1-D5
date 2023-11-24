@@ -1,0 +1,170 @@
+/* Your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:wght@400;500;700&family=Poppins:wght@400;500;700;900&family=Roboto:wght@400;700&display=swap');
+
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+body {
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.3rem;
+  color: #393d41;
+  line-height: 1.65;
+  text-align: center;
+}
+
+header img {
+  padding-top: 2em;
+  width: 150px;
+  padding-bottom: 2em;
+}
+
+header {
+  background-color: black;
+  height: 100px;
+  text-align: center;
+  padding-bottom: 1.5em;
+}
+
+#prima {
+  background-image: url(../images/banner.jpg);
+  background-repeat: no-repeat;
+  background-size: 150%;
+  height: 445px;
+  background-position: top;
+  margin-bottom: 2.5em;
+}
+
+#titolo {
+  font-family: 'Montserrat', sans-serif;
+  color: #25a2c3;
+  font-weight: bold;
+  font-size: 2em;
+  line-height: 1;
+  padding-top: 1.5em;
+  margin-bottom: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+#prima p {
+  padding-left: 2em;
+  padding-right: 2em;
+  margin-bottom: 2em;
+}
+
+#prima button {
+  background-color: #f04c2f;
+  font-family: 'Montserrat', sans-serif;
+  width: 160px;
+  height: 50px;
+  border: 1px;
+  margin-top: 0.5em;
+  color: white;
+  border-radius: 5px;
+}
+
+#seconda h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #25a2c3;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+#seconda p {
+  padding-left: 2em;
+  padding-right: 2em;
+  margin-bottom: 2em;
+}
+
+#seconda article {
+  margin-top: 1em;
+}
+
+#seconda img {
+  border-radius: 50%;
+  margin-bottom: 1em;
+}
+
+#terzo {
+  background-color: #e22d0e;
+  margin-top: 3em;
+  margin-bottom: 2em;
+}
+
+#terzo h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.6em;
+  color: white;
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+
+#terzo p {
+  color: white;
+  font-style: italic;
+  padding-bottom: 2em;
+}
+.testimo {
+  color: white;
+}
+
+#ceo {
+  font-size: 14px;
+  padding-bottom: 2.5em;
+}
+#quarto img {
+  width: 100%;
+}
+
+.quadrati {
+  margin: 1em;
+  border: solid 1px #dee1e3;
+}
+
+.quadrati h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #25a2c3;
+  font-weight: bold;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+.quadrati p {
+  margin-bottom: 2em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+footer {
+  background-color: #25a2c3;
+  margin-top: 3em;
+  color: #c8e7f0;
+}
+footer h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.6em;
+  color: white;
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+}
+footer a {
+  color: #c8e7f0;
+}
+#barra {
+  border-bottom: solid 1.5px white;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+#ultimo {
+  font-size: 16px;
+  padding-bottom: 3.5em;
+}

@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:wght@400;500;700&family=Poppins:wght@400;500;700;900&family=Roboto:wght@400;700&display=swap');
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.3rem;
+  color: #393d41;
+  line-height: 1.65;
+}
+header {
+  background-color: black;
+}
+header img {
+  width: 200px;
+  padding: 2em;
+}
+
+#prima {
+  background-image: url(../images/banner.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 750px;
+  background-position: top;
+  margin-bottom: 2.5em;
+}
+
+#titolo {
+  font-family: 'Montserrat', sans-serif;
+  color: #25a2c3;
+  font-weight: bold;
+  font-size: 2.2em;
+  line-height: 1;
+  padding-top: 5em;
+  margin-bottom: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  text-align: center;
+}
+
+#prima p {
+  text-align: center;
+  font-size: 1.2em;
+}
+#prima button {
+  background-color: #f04c2f;
+  font-family: 'Montserrat', sans-serif;
+  width: 160px;
+  height: 50px;
+  border: 1px;
+  margin-left: 70em;
+  margin-top: 2em;
+  color: white;
+  border-radius: 5px;
+}
+#seconda {
+  display: inline;
+}
+
+#seconda h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #25a2c3;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+#fotopc {
+  border-radius: 50%;
+  margin-bottom: 1em;
+  margin-left: 10em;
+  margin-top: 4em;
+}
